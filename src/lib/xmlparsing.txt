@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<class>
+   <student>
+      <firstname>pranjali</firstname>
+      <lastname>telavane</lastname>
+      <nickname>pj</nickname>
+      <marks>90</marks>
+   </student>    
+</class>
